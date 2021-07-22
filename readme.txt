@@ -36,6 +36,9 @@ Master WordPress Theme, Copyright 2021 WPEntire
 Master is distributed under the terms of the GNU General Public License v2
 
 == Changelog ==
+= 2.0.1 =
+* Fixed minor CSS issue
+
 = 2.0.0 =
 * Totally change the design
 * Fixed WordPress theme guidelines

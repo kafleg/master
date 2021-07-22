@@ -9,7 +9,7 @@
 
 if ( ! defined( '_MASTER_VERSION' ) ) {
 	// Replace the version number of the theme on each release.
-	define( '_MASTER_VERSION', '1.0.3' );
+	define( '_MASTER_VERSION', '2.0.1' );
 }
 
 if ( ! function_exists( 'master_setup' ) ) :
@@ -332,8 +332,11 @@ function master_scripts() {
     wp_enqueue_style('master-heading', '//fonts.googleapis.com/css?family=Prata&display=swap', array(), null);
     wp_enqueue_style( 'bootstrap-css', get_template_directory_uri() . '/assets/css/bootstrap.css', array(), '4.5.0' );
     wp_enqueue_style( 'font-awesome', get_template_directory_uri() . '/assets/css/font-awesome.min.css', array(), '4.5.0' );
+
 	wp_enqueue_style( 'master-style', get_stylesheet_uri(), array(), _MASTER_VERSION );
-	wp_enqueue_style( 'master-custom-css', get_template_directory_uri() . '/assets/css/custom.css', array(), '4.5.0' );
+
+	wp_enqueue_style( 'master-custom', get_template_directory_uri() . '/assets/css/custom.css', array(), _MASTER_VERSION );
+	
 	wp_style_add_data( 'master-style', 'rtl', 'replace' );
 
 	wp_enqueue_script( 'master-navigation', get_template_directory_uri() . '/js/navigation.js', array('jquery'), _MASTER_VERSION, true );
