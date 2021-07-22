@@ -13,7 +13,7 @@ Free lightweight blog theme.
 
 == Description ==
 
-Free lightweight blog theme. 
+Free lightweight blog theme. This is a complete new design of Master theme. If you have any queries, contact us. https://www.wpentire.com/contact-us/
 
 == Installation ==
 
@@ -36,8 +36,9 @@ Master WordPress Theme, Copyright 2021 WPEntire
 Master is distributed under the terms of the GNU General Public License v2
 
 == Changelog ==
-= 1.0.0 =
-* Initial release
+= 2.0.0 =
+* Totally change the design
+* Fixed WordPress theme guidelines
 
 == Credits ==
 
