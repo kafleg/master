@@ -45,3 +45,9 @@ Master is distributed under the terms of the GNU General Public License v2
 * normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2018 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
 * Color pallette is from Twenty Twenty One theme - GPL License
 * Font-Awesome https://github.com/FortAwesome/Font-Awesome FontAwesome 4.7.0 Copyright 2012 Dave Gandy Font License: SIL OFL 1.1 Code License: MIT License http://fontawesome.io/license/
+
+== Screenshot ==
+
+Image URL: https://www.rawpixel.com/image/2742457/free-illustration-image-vintage-letter-writing
+License: https://www.rawpixel.com/services/user-terms/public-domain
+These Public Domain Images are clearly labelled as ‘Free Public Domain CC0 Image’ and are available with the Creative Commons 0 license.
