@@ -109,6 +109,9 @@ if ( ! function_exists( 'master_setup' ) ) :
 		// This was removed in WordPress 5.6 but is still required to properly support WP 5.5.
 		add_theme_support( 'custom-units' );
 
+		//Supports custom page templates with blocks. Introduced from WP 5.8
+		add_theme_support( 'block-templates' );
+
 		// Add custom editor font sizes.
 		//Credit: Twenty Twenty One theme
 		add_theme_support(
